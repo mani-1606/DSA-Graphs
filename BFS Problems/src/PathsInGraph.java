@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
-
+//LC=1971
 public class PathsInGraph {
     public boolean validPath(int n, int[][] edges, int start, int end) {
         if(start==end) return true;
