@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BFS Problems/BFS Problems.iml" filepath="$PROJECT_DIR$/BFS Problems/BFS Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CYCLE DETECT DG Problems/CYCLE DETECT DG Problems.iml" filepath="$PROJECT_DIR$/CYCLE DETECT DG Problems/CYCLE DETECT DG Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/DFS Problems/DFS Problems.iml" filepath="$PROJECT_DIR$/DFS Problems/DFS Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Graphs.iml" filepath="$PROJECT_DIR$/.idea/Graphs.iml" />
       <module fileurl="file://$PROJECT_DIR$/TOPOLOGICAL SORT Problems/TOPOLOGICAL SORT Problems.iml" filepath="$PROJECT_DIR$/TOPOLOGICAL SORT Problems/TOPOLOGICAL SORT Problems.iml" />
