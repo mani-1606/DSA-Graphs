@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
+//lc = 841
 public class keysAndRooms {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         int n = rooms.size();
